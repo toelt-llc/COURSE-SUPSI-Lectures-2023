@@ -41,11 +41,9 @@ In this lecture we will look at what autoencoders are and what you can do with t
 - [Denoising Autoencoders with Feed Forward Neural Networks](https://colab.research.google.com/github/toelt-llc/ADL-Book-2nd-Ed/blob/master/docs/Autoencoders/Denoising_autoencoders_with_FFNN.ipynb)
 - [Denoising Autoencoders with Convolutional Neural Networks](https://colab.research.google.com/github/toelt-llc/ADL-Book-2nd-Ed/blob/master/docs/Autoencoders/Denoising_autoencoders_with_CNN.ipynb)
 
-# Lecture 3 - 14th March 2023 - Introduction to Generative Adversarial Networks
+# Lecture 3 - 14th March 2023 - Hands-on Exercises
 
-A lot of code is available for GANs. 
-
-**WARNING**: the code is slow and on a normal laptop may take several hours. So you are warned. In general you can download the jupyter notebooks and use them on google colab, but also there it will get at least 4 hours to get some decent results. The examples that we will run (and the time you will see in the notebook are coming from a professional deep learning machine with 3 RTX A6000 professional graphic cards).
+In this lecture the students will do a programming exercise with neural networks and autoencoders.
 
 # Lecture 4 - Date to be added - Use cases discussion in Industry and Research
 
