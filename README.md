@@ -16,7 +16,7 @@ In this lecture we will look first at  Jupyter notebooks. Those are the common t
 3. Hands-on session - [JUPYTER NOTEBOOK](https://colab.research.google.com/github/toelt-llc/COURSE-SUPSI-Lectures-2023/blob/main/1%20-%20Keras%20and%20TF/code/Easy_Network_with_Keras.ipynb)
 
 
-The hands-on session will be based mostly on one [Jupyter Notebook](https://github.com/toelt-llc/SUPSI-Lectures-2023/blob/main/1%20-%20Keras%20and%20TF/code/Easy_Network_with_Keras.ipynb).
+The hands-on session will be based mostly on one [Jupyter Notebook](https://colab.research.google.com/github/toelt-llc/COURSE-SUPSI-Lectures-2023/blob/main/1%20-%20Keras%20and%20TF/code/Easy_Network_with_Keras.ipynb).
 
 ## Additional and Bonus Material
 
